@@ -1,0 +1,3 @@
+Accuracy for class hate: 0.799163179916318
+Accuracy for class no hate: 0.7071129707112971
+Test accuracy =  0.7531380753138075
