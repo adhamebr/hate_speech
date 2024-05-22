@@ -1,4 +1,4 @@
-# NLP Challenge for Core42 AI Modelling team
+# Hate speech task
 
 ## Goal
 Build a basic text classification model using any framework(PyTorch, Keras, etc..) and deploy via a REST API
@@ -25,6 +25,3 @@ The dataset you will be using contains hate speech from an online forum. You nee
 Dataset contains two splits `sampled_train` and `sampled_test`.
 
 Note: The text in this dataset might contain offensive language.
-
-## Submission
-Timebox this challenge to 4-8 hours. After completing the assignment, please compress whole repo and send it.
