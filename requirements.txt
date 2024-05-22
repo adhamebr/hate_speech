@@ -1,0 +1,11 @@
+datasets==2.16.1
+evaluate==0.4.1
+fastapi==0.110.0
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.1
+pydantic==2.6.4
+starlette==0.37.2
+torch==2.2.1
+transformers==4.29.2
+wandb==0.16.3
